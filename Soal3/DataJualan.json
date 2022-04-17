@@ -1,0 +1,59 @@
+[
+	{
+		"id": 1,
+		"gambar": "product-images/GambarKatalog1.jfif",
+		"name": "Baju Muslim Kerah V",
+		"price": "95.000",
+		"ukuran": "XL",
+		"warna": "Merah, Cream, Hijau, Biru",
+		"email":"BajuMuslim99@gmail.com",
+    	"Phone": "0355794098",
+    	"Address": "Jl. Pahlawan No.8 Jambangan Surabaya"
+
+	},
+	{
+		"id": 2,
+		"gambar": "product-images/GambarKatalog2.jfif",
+		"name": "Baju Muslim Lengan Pendek",
+		"price": "150.000",
+		"ukuran": "L",
+		"warna": "Hitam, Putih, Cream",
+		"email":"BajuMuslim99@gmail.com",
+    	"Phone": "0355794098",
+    	"Address": "Jl. Pahlawan No.8 Jambangan Surabaya"
+	},
+	{
+		"id": 3,
+		"gambar": "product-images/GambarKatalog3.jfif",
+		"name": "Baju Koko Panjang",
+		"price": "220.000",
+		"ukuran": "L",
+		"warna": "Putih, Abu-Abu, Hitam",
+		"email":"BajuMuslim99@gmail.com",
+    	"Phone": "0355794098",
+    	"Address": "Jl. Pahlawan No.8 Jambangan Surabaya"
+	},
+	{
+		"id": 4,
+		"gambar": "product-images/GambarKatalog4.jfif",
+		"name": "Baju Muslim 3/4",
+		"price": "135.000",
+		"ukuran": "XL",
+		"warna": "Merah, Hitam, Abu-Abu",
+		"email":"BajuMuslim99@gmail.com",
+    	"Phone": "0355794098",
+    	"Address": "Jl. Pahlawan No.8 Jambangan Surabaya"
+	},
+	{
+		"id": 5,
+		"gambar": "product-images/GambarKatalog5.jfif",
+		"name": "Sarung",
+		"price": "70.000",
+		"ukuran": "XL",
+		"warna": "Putih, Merah, Hitam",
+		"email":"BajuMuslim99@gmail.com",
+    	"Phone": "0355794098",
+    	"Address": "Jl. Pahlawan No.8 Jambangan Surabaya"
+	}
+	
+]
